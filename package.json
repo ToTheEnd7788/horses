@@ -1,6 +1,6 @@
 {
   "name": "horses-fetcher",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A mini compitable simple fetcher",
   "main": "./lib/index.js",
   "repository": "git@github.com:ToTheEnd0314/horses.git",
@@ -21,7 +21,7 @@
     "@babel/preset-env": "^7.7.6",
     "cross-env": "^6.0.3",
     "express": "^4.17.1",
-    "horses-fetcher": "^0.1.0",
+    "horses-fetcher": "^0.3.0",
     "rollup": "^1.27.13",
     "rollup-plugin-terser": "^5.1.3",
     "rollup-plugin-typescript": "^1.0.1",

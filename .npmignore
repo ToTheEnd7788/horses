@@ -5,3 +5,4 @@ yarn-error.log
 rollup.config.js
 .gitignore
 build
+tsconfig.json
