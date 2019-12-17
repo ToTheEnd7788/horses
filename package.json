@@ -1,6 +1,6 @@
 {
   "name": "horses-fetcher",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A mini compitable simple fetcher",
   "main": "./lib/index.js",
   "repository": "git@github.com:ToTheEnd0314/horses.git",
