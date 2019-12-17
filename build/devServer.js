@@ -40,7 +40,7 @@ app.post("/api/post", (req, res) => {
   });
 });
 
-app.use("/", express.static(resolve(__dirname, "../lib")));
+app.use("/", express.static(resolve(__dirname, "../")));
 
 app.listen(3000, err => {
   console.error(err);

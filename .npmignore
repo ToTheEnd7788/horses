@@ -4,3 +4,4 @@ src
 yarn-error.log
 rollup.config.js
 .gitignore
+build
