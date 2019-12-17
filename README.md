@@ -1,2 +1,2 @@
-# horses
-A compitable fetch component
+# horses-fetcher
+**A mini compitable simple fetcher**
